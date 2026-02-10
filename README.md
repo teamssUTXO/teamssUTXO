@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi [](https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif)
 
-<!--
-**teamssUTXO/teamssUTXO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a french computer science student currently working at [Agirc-Arrco](https://www.agirc-arrco.fr/) as an AI developer. I'm passionate about exploring new technologies, with a particular focus on Blockchain.
 
-Here are some ideas to get you started:
+Check my website : teamss.fr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### [Bitcoin MCP Server](https://github.com/teamssUTXO/bitcoin_mcp) ⭐
+The first MCP Server dedicated to Bitcoin ecosystem  
+`Python` · `Blockchain` · `MCP`
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://teamss.fr)
