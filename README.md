@@ -4,7 +4,7 @@ I'm a french computer science student currently working at [Agirc-Arrco](https:/
 
 Check my website : [teamss.fr](https://teamss.fr)
 
-**Projects**
+#### Projects
 
 - [Bitcoin MCP Server](https://github.com/teamssUTXO/bitcoin_mcp) : The first MCP Server dedicated to Bitcoin ecosystem  
 `Python` · `Blockchain` · `MCP`
