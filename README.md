@@ -6,6 +6,5 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 #### Projects
 
-- [Bitcoin MCP Server](https://github.com/teamssUTXO/bitcoin_mcp) : AI MCP Server dedicated to Bitcoin ecosystem
-
-`Python` · `Blockchain` · `AI`
+- [Bitcoin MCP Server](https://github.com/teamssUTXO/bitcoin_mcp) : AI MCP Server dedicated to Bitcoin ecosystem  
+  `Python` · `Blockchain` · `AI`
