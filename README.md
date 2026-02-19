@@ -8,3 +8,8 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 - [Bitcoin MCP Server](https://github.com/teamssUTXO/bitcoin_mcp) : MCP Server dedicated to Bitcoin ecosystem  
   `Python` · `Blockchain` · `AI`
+
+#### Contributions
+
+- [BTCPayServer Plugin](https://github.com/btcpayserver/btcpayserver-plugin-builder) : Web platform for building and publishing plugins for BTCPay Server, the open-source Bitcoin payment processor  
+  `C#` · `ASP.NET Core` · `Bitcoin` · `Self-Hosted`
