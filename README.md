@@ -13,3 +13,6 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 - [BTCPayServer Plugin](https://github.com/btcpayserver/btcpayserver-plugin-builder) : Web platform for building and publishing plugins for BTCPay Server, the open-source Bitcoin payment processor  
   `C#` · `ASP.NET Core` · `Bitcoin` · `Self-Hosted`
+
+
+![My GitHub Game](game.gif)
