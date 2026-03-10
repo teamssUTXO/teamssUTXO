@@ -11,7 +11,7 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 #### Contributions
 
-- [BTCPay Server ecosystem](https://github.com/btcpayserver) : Open-source, self-hosted payment processor for accepting Bitcoin and other cryptocurrencies.
+- [BTCPay Server ecosystem](https://github.com/btcpayserver) : Open-source, self-hosted payment processor for accepting Bitcoin and other cryptocurrencies. 
   `C#` · `Bitcoin`
 
 
