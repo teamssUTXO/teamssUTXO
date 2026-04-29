@@ -8,6 +8,8 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 - [Bitcoin MCP Server](https://github.com/teamssUTXO/bitcoin_mcp) : MCP Server dedicated to Bitcoin ecosystem  
   `Python` · `AI` · `Bitcoin`
+- [CodeStar](https://github.com/CodeStar-Project) : Open-source & self-hosted e-learning platform  
+  `Education`
 
 #### Contributions
 
@@ -16,4 +18,3 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 
 ![My GitHub Game](game.gif)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=teamssUTXO&color=lightgrey&style=flat&abbreviated=true)
