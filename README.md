@@ -16,3 +16,4 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 
 ![My GitHub Game](game.gif)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=teamssUTXO&color=lightgrey&style=flat&abbreviated=true)
