@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-I'm a french computer science student currently working at [Agirc-Arrco](https://www.agirc-arrco.fr/) as an AI developer. I'm passionate about exploring technologies, with a particular focus on Blockchain & Bitcoin.
+I'm a french computer science student currently working at [Agirc-Arrco](https://www.agirc-arrco.fr/) as an AI developer. I'm passionate about exploring technologies, with a particular focus on AI & Blockchain.
 
 Check my website : [teamss.fr](https://teamss.fr)
 
@@ -15,6 +15,8 @@ Check my website : [teamss.fr](https://teamss.fr)
 
 - [BTCPay Server ecosystem](https://github.com/btcpayserver) : Open-source, self-hosted payment processor for accepting Bitcoin and other cryptocurrencies  
   `C#` · `Bitcoin`
+- [Beat Battle](https://beat-battle.net) : Competitive online game for music producers  
+  `i18n` · `Beatmaking`
 
 
 ![My GitHub Game](game.gif)
