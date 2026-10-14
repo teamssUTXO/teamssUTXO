@@ -10,6 +10,8 @@ Check my website : [teamss.fr](https://teamss.fr)
   `Python` · `AI` · `Bitcoin`
 - [CodeStar](https://github.com/CodeStar-Project) : Open-source & self-hosted e-learning platform  
   `Java` · `Next.js` · `Education`
+- [WeTalk](https://github.com/WeTalk-com/WeTalk) : Twitter/X-like social network with AI features
+  `Next.js` · `Express` · `RAG` · `MCP`
 
 #### Contributions
 
@@ -17,6 +19,3 @@ Check my website : [teamss.fr](https://teamss.fr)
   `C#` · `Bitcoin`
 - [Beat Battle](https://beat-battle.net) : Competitive online game for music producers  
   `i18n` · `Beatmaking`
-
-
-![My GitHub Game](game.gif)
