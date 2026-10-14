@@ -10,7 +10,7 @@ Check my website : [teamss.fr](https://teamss.fr)
   `Python` · `AI` · `Bitcoin`
 - [CodeStar](https://github.com/CodeStar-Project) : Open-source & self-hosted e-learning platform  
   `Java` · `Next.js` · `Education`
-- [WeTalk](https://github.com/WeTalk-com/WeTalk) : Twitter/X-like social network with AI features
+- [WeTalk](https://github.com/WeTalk-com/WeTalk) : Twitter/X-like social network with AI features 
   `Next.js` · `Express` · `RAG` · `MCP`
 
 #### Contributions
